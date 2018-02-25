@@ -1,5 +1,7 @@
 # docker-jenkins
-[![](https://images.microbadger.com/badges/version/mspbgx/jenkins.svg)](https://microbadger.com/images/mspbgx/jenkins "Get your own version badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/mspbgx/jenkins.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/mspbgx/jenkins.svg)][hub]
+[![](https://images.microbadger.com/badges/version/mspbgx/jenkins.svg)](https://microbadger.com/images/mspbgx/jenkins "Get your own version badge on microbadger.com")
+[![Docker Pulls](https://img.shields.io/docker/pulls/mspbgx/jenkins.svg)][hub]
+[![Docker Stars](https://img.shields.io/docker/stars/mspbgx/jenkins.svg)][hub]
 MAINTAINER: sparenberg@openenv.de
 
 
